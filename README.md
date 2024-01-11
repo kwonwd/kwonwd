@@ -2,12 +2,12 @@
 
 
 
-## Who Am I?
+### Who Am I?
 
 - Male
-- Koeran
+- Korean
 
-## Education
+### Education
 
 - UNIST(Ulsan National Institute Science and Technology)
   - NanoMaterial Engineering
@@ -16,21 +16,24 @@
   - Non-majored JAVA
 
 
-## Hobby
+### Hobby
 
 - Digging music
 - Djing
 - Bartending
-- ScubaDiving (I can't swim without equitment)
-- going festival
+- SCUBADiving (I can't swim without equitment)
+- Going festival (Already went wdf, umf, edc, pentaport, busan international rock)
 - Taking photo
-- Editing video, photo(just tone)
-- 
+- Editing video, photo(just tone adjustment)
 
-## What I want to do?
+
+
+### What I want to do?
 
 - Something fun
 
-## Project
+![dopamine](./asset/dopamine.jpg)
+
+### Project
 
 - Maybe soon..?
