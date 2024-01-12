@@ -6,10 +6,11 @@
 
 - Male
 - Korean
+- ENFP 
 
 ### Education
 
-- UNIST(Ulsan National Institute Science and Technology)
+- Major
   - NanoMaterial Engineering
   - Nuclear Science and Engineering
 - SSAFY 11th
@@ -25,7 +26,7 @@
 - Going festival (Already went wdf, umf, edc, pentaport, busan international rock)
 - Taking photo
 - Editing video, photo(just tone adjustment)
-
+- Watching movie and analyzing movie
 
 
 ### What I want to do?
